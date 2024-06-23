@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: aqua;
+    padding: 15px;
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bg-color{
+    background: url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg");
+}
+.image{
+    width: 230px;
+}
+.cards_responsive{
+    display: inline-flex;
+    padding: 10px;
+}
+.cards{
+    background: white;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+.description{
+    padding: 5px;
+    background-color: aqua;
+    
+}
+p{
+    text-align: justify;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+    background-color: black;
+    margin: 2px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
